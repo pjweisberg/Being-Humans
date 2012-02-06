@@ -1,0 +1,574 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: typo-o-graphy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-08 19:01+0100\n"
+"PO-Revision-Date: 2011-01-08 19:02+0100\n"
+"Last-Translator: tomek <tommek77@gmail.com>\n"
+"Language-Team: typo-o-graphy <tommek77@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/404.php:5
+msgid "Error 404 - Not Found"
+msgstr "Błąd 404 - Nie odnaleziono strony  "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/404.php:8
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/loop.php:8
+msgid "Recent Posts"
+msgstr "Najnowsze wpisy "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/404.php:11
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/loop.php:11
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/loop.php:33
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Odnośnik do %s "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/404.php:12
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/loop.php:12
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/loop.php:34
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/sidebar.php:9
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/single.php:10
+msgid "Categories"
+msgstr "Kategorie "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/archive.php:5
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr "Archiwum dnia: <span>%s</span>"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/archive.php:7
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "Archiwum miesiąca: <span>%s</span>"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/archive.php:9
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "Archiwum roku: <span>%s</span>"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/archive.php:11
+msgid "Blog Archives"
+msgstr "Archiwum strony"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/archive.php:16
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/author.php:10
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/category.php:8
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/index.php:7
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/search.php:8
+msgid "&larr; Older posts"
+msgstr "&larr; Starsze wpisy "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/archive.php:17
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/author.php:11
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/category.php:9
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/index.php:8
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/search.php:9
+msgid "Newer posts &rarr;"
+msgstr "Nowsze wpisy &rarr; "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/attachment.php:30
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/functions.php:97
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Czytaj dalej <span class=\"meta-nav\">&rarr;</span>"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/attachment.php:48
+#, php-format
+msgid "Return to %s"
+msgstr "Powrót do %s "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/attachment.php:49
+#, php-format
+msgid "<span class=\"meta-nav\">&larr;</span> %s"
+msgstr "<span class=\"meta-nav\">&larr;</span> %s "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/attachment.php:53
+msgid "<li>Title : "
+msgstr "<li>Tytuł :  "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/attachment.php:54
+#, php-format
+msgid "<li><span class=\"%1$s\">Published:</span> %2$s"
+msgstr "<li><span class=\"%1$s\">Opublikowano:</span> %2$s"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/attachment.php:59
+#, php-format
+msgid "Full size is %s pixels:"
+msgstr "Orginalny rozmiar wynosi: %s pikseli"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/attachment.php:61
+msgid "Link to full-size image"
+msgstr "Link do pełnego wymiaru obrazka "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/attachment.php:63
+msgid "Edit"
+msgstr "Edytuj"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/attachment.php:66
+msgid "<li>Caption: "
+msgstr "<li>Opis:  "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/attachment.php:67
+msgid "<li>Camera: "
+msgstr "<li>Model aparatu:  "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/attachment.php:68
+msgid "<li>Aperture: f/"
+msgstr "<li>Przesłona: f/"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/attachment.php:69
+msgid "<li>Copyright: "
+msgstr "<li>Prawa autorskie:"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/attachment.php:70
+msgid "<li>Credit: "
+msgstr "<li>Opis: "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/attachment.php:71
+msgid "<li>Focal Length: "
+msgstr "<li>Obiektyw:  "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/attachment.php:72
+msgid "<li>ISO: "
+msgstr "<li>ISO:  "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/attachment.php:73
+msgid "<li>Shutter Speed: "
+msgstr "<li>Szybkość  migawki: "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/author.php:4
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Archiwum autora: %s"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/category.php:3
+#, php-format
+msgid "Category Archives: <span>%s</span>"
+msgstr "Archiwum kategorii: <span>%s</span>"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/comments.php:3
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Ten wpis jest chroniony hasłem, wpisz hasło."
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/comments.php:15
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/comments.php:26
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Starsze komentarze."
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/comments.php:16
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/comments.php:27
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nowsze komentarze <span class=\"meta-nav\">&rarr;</span>"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/comments.php:32
+msgid "Comments are closed."
+msgstr "Komentarze są wyłaczone."
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/footer.php:23
+msgid "Syndicate this site using RSS"
+msgstr "Subskrybuj tę stronę w kanale  RSS."
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/footer.php:23
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr "<abbr title=\"Subskrybuj kanał Rss\">RSS</abbr> "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/footer.php:24
+msgid "The latest comments to all posts in RSS"
+msgstr "Najnowsze komentarze w kanale  RSS."
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/footer.php:24
+msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr "Komentarze <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/footer.php:25
+msgid "Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgstr "Powered by WordPress, state-of-the-art semantic personal publishing platform. "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/footer.php:26
+msgid "Theme design by"
+msgstr "Autor szablonu "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/functions.php:8
+msgid "Header Widget Area"
+msgstr "Nagłowek, obszar dla widgetów"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/functions.php:10
+msgid "The header widget area"
+msgstr "Obszar dla widgetów w nagłówku strony"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/functions.php:18
+msgid "Sidebar Widget Area"
+msgstr "Sidebar, obszar dla widgetów"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/functions.php:20
+msgid "The sidebar widget area"
+msgstr "Obszar dla widgetów w prawej kolumnie"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/functions.php:28
+msgid "First Footer Widget Area"
+msgstr "Stopka, pierwszy obszar"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/functions.php:30
+msgid "The first footer widget area"
+msgstr "Pierwszy obszar dla widgetów w stopce"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/functions.php:38
+msgid "Third Footer Widget Area"
+msgstr "Stopka, drugi obszar"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/functions.php:40
+msgid "The third footer widget area"
+msgstr "Drugi  obszar dla widgetów w stopce"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/functions.php:74
+msgid "Primary Navigation"
+msgstr "Podstawowa nawigacja"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/functions.php:103
+#, php-format
+msgid "<em> %1$s, Author:</em> %2$s,"
+msgstr "<em> %1$s, Autor:</em> %2$s  "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/functions.php:128
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">pisze:</span> "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/functions.php:131
+msgid "Your comment is awaiting moderation."
+msgstr "Twój komentarz oczekuje na moderację."
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/functions.php:138
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s z %2$s "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/functions.php:138
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/functions.php:155
+msgid "(Edit)"
+msgstr "Edytuj"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/functions.php:155
+msgid "Pingback:"
+msgstr "Pingback, cytat: "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/header.php:8
+msgid "Search Results"
+msgstr "Wynik wyszukiwania: "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/header.php:10
+#, php-format
+msgid "Page %s |"
+msgstr "Strona %s |"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/header.php:11
+msgid "Category Archives"
+msgstr "Archiwum kategorii"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/header.php:12
+msgid "Archives"
+msgstr "Archiwum "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/header.php:13
+msgid "Tag Archives"
+msgstr "Archiwum tagów"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/header.php:14
+msgid "HTTP 404: Not Found"
+msgstr "HTTP 404: Strona nie istnieje"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/header.php:15
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/loop.php:23
+#, php-format
+msgid "About %s"
+msgstr "Informacje o %s "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/loop.php:4
+msgid "Not Found"
+msgstr "Nie odnaleziono"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/loop.php:32
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/single.php:8
+msgid "Leave a comment"
+msgstr "Dodaj komentarz"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/loop.php:32
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/single.php:8
+msgid "1 Comment"
+msgstr "Jeden komentarz  "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/loop.php:32
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/single.php:8
+msgid "% Comments"
+msgstr "%   komentarzy"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/loop.php:32
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/single.php:8
+msgid "Edit This"
+msgstr "Edytuj wpis"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/loop.php:35
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/single.php:11
+msgid "Tags:"
+msgstr "Tagi  "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/loop.php:43
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/page.php:16
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/single.php:16
+msgid "(more...)"
+msgstr "(więcej...) "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/loop.php:44
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/page.php:17
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/single.php:17
+msgid "Pages:"
+msgstr "Strony: "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/page.php:23
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/single.php:23
+msgid "Sorry, no posts matched your criteria."
+msgstr "Przepraszamy, nie istnieje wpis spełniający kryteria."
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/search.php:3
+#, php-format
+msgid "Search Results for: <span>%s</span>"
+msgstr "Wynik wyszukiwania dla: <span>%s</span>"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/social.php:3
+msgid "Subscribe Rss"
+msgstr "Subskrybuj kanał RSS "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/social.php:4
+msgid "Facebook profil"
+msgstr "Profil na koncie Facebook"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/social.php:5
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/social.php:6
+msgid "YouTube profil"
+msgstr "Profil w serwisie YouTube  "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/tag.php:3
+#, php-format
+msgid "Tag Archives: <span>%s</span>"
+msgstr "Archiwum tagów: <span>%s</span>"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/typo-theme-options.php:17
+msgid "Theme Options"
+msgstr "Opcje tematu"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/typo-theme-options.php:31
+msgid " Theme Options"
+msgstr "Opcje Motywu"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/typo-theme-options.php:34
+msgid "Options saved"
+msgstr "Zapisane opcje "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/typo-theme-options.php:43
+msgid "Facebook"
+msgstr "Facebook"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/typo-theme-options.php:46
+msgid "Enter Facebook  account name, <br />for example(http://www.facebook.com/?ref=logo#!/<strong>mazurtomek</strong>)"
+msgstr "Wprowadż nazwę konta na Facebook, <br /> np (http://www.facebook.com/?ref=logo#!/<strong>mazurtomek</strong>)"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/typo-theme-options.php:50
+msgid "LastFM"
+msgstr "LastFm"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/typo-theme-options.php:53
+msgid "Enter LastFM  account name, <br />for example(http://www.lastfm.pl/user/<strong>tommek</strong>)"
+msgstr "Wprowadż nazwę konta na Last FM, <br />np (http://www.lastfm.pl/user/<strong>tommek</strong>)"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/typo-theme-options.php:57
+msgid "YouTube"
+msgstr "YouTube "
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/typo-theme-options.php:60
+msgid "Enter YouTube  account name,<br /> for example(http://www.youtube.com/user/<strong>tommek1977</strong>)"
+msgstr "Wprowadż nazwę konta na YouTube,<br /> np (http://www.youtube.com/user/<strong>tommek1977</strong>)"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/typo-theme-options.php:67
+msgid "Save Options"
+msgstr "Zapisz opcje"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/typo-widgets.php:44
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/typo-widgets.php:112
+msgid "Title:"
+msgstr "Tytuł:"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/typo-widgets.php:45
+msgid "\"Flickr\"- ID. <a href=\"http://idgettr.com/\">idgettr.com</a>"
+msgstr "\"Flickr\"- identyfikator konta Flickr. <a href=\"http://idgettr.com/\">idgettr.com</a>"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/typo-widgets.php:47
+msgid "Number of photo to display:"
+msgstr "Liczba zdjęć do wyświetlenia:"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/typo-widgets.php:113
+msgid "User:"
+msgstr "Urzytkownik:"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/typo-widgets.php:115
+msgid "Number of Tweets to display:"
+msgstr "Liczba wpisów do wyświetlenia:"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/typo-widgets.php:167
+msgid "Name:"
+msgstr "Imię i nazwisko:"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/typo-widgets.php:168
+msgid "Link to your image(80x80px):"
+msgstr "Link do obrazka(80x80px):"
+
+#: F:\WWW\SZABLONY\wp-content\themes\typo-o-graphy/typo-widgets.php:169
+msgid "Description:"
+msgstr "Opis: "
+
+#~ msgid "Author"
+#~ msgstr "Autor: "
+
+#~ msgid "Enter Google Analitics code"
+#~ msgstr "Wpisz kod Google Analitics"
+
+#~ msgid "One Response to %2$s"
+#~ msgstr "Jedna Odpowiedż do"
+
+#~ msgid "Comments (1)"
+#~ msgstr "Komentarz (1) "
+
+#~ msgid "Comments (%)"
+#~ msgstr "Komentarze (%) "
+
+#~ msgid "Flickr gallery"
+#~ msgstr "Galeria Flickr"
+
+#~ msgid "A widget to enable people to follow you on Twitter"
+#~ msgstr "Widget wyświetlający moje wpisy na Twitterze"
+
+#, fuzzy
+#~ msgid "Stock number:"
+#~ msgstr "Liczba zakotwiczeń"
+
+#, fuzzy
+#~ msgid "Your photo (80x80px):"
+#~ msgstr "Proszę wprowadzić opis"
+
+#~ msgid "Linkedin profil"
+#~ msgstr "Profil na koncie Linkedin "
+
+#~ msgid "Enter Facebook  account name"
+#~ msgstr "Wprowadź nazwę konta na Facebook"
+
+#~ msgid "Enter LastFM  account name"
+#~ msgstr "Wprowadź nazwę konta LastFM"
+
+#~ msgid "Linkedin"
+#~ msgstr "Linkedin"
+
+#~ msgid " Enter Linkedin  account name"
+#~ msgstr "Wprowadź nazwę konta Linkedin"
+
+#~ msgid "Enter YouTube  account name"
+#~ msgstr "Wprowadź nazwę konta YouTube"
+
+#, fuzzy
+#~ msgid "Put your full twitter address here"
+#~ msgstr "Put your full twitter address here."
+
+#~ msgid "Twitter name"
+#~ msgstr "Login do konta Twitter  "
+
+#, fuzzy
+#~ msgid "Twitt number:"
+#~ msgstr "Liczba zakotwiczeń"
+
+#~ msgid "E-mail"
+#~ msgstr "E-mail"
+
+#~ msgid "LastFM name"
+#~ msgstr "Login do konta LastFM "
+
+#, fuzzy
+#~ msgid "Source Language:"
+#~ msgstr "Ustawienie języka"
+
+#, fuzzy
+#~ msgid "Number of post(max10):"
+#~ msgstr "Ustawia ilość iskier"
+
+#~ msgid "Gallery"
+#~ msgstr "Galeria "
+
+#~ msgid "Sidebar top"
+#~ msgstr "Sidebar - góra"
+
+#~ msgid "Sidebar bottom"
+#~ msgstr "Sidebar - dół"
+
+#~ msgid "Typo-o-Graphy Options"
+#~ msgstr "Typo-o-Graphy - opcje szablonu"
+
+#~ msgid "<strong>Facebook</strong>"
+#~ msgstr "<strong>Facebook</strong> "
+
+#~ msgid "<strong>Twitter</strong>"
+#~ msgstr "<strong>Twitter</strong> "
+
+#~ msgid "<strong>Flickr</strong>"
+#~ msgstr "<strong>Flickr</strong> "
+
+#~ msgid "<strong>Linkedin</strong>"
+#~ msgstr "<strong>Linkedin</strong>  "
+
+#~ msgid "<strong>You Tube</strong>"
+#~ msgstr "<strong>You Tube</strong>  "
+
+#~ msgid "<strong>LastFm</strong>"
+#~ msgstr "<strong>LastFm</strong> "
+
+#~ msgid "<strong>Name</strong>"
+#~ msgstr "<strong>Imię i nazwisko</strong> "
+
+#~ msgid "Your name."
+#~ msgstr "Imię i  nazwisko: "
+
+#~ msgid "<strong>E-mail</strong>"
+#~ msgstr "<strong>E-mail</strong> "
+
+#~ msgid "Your e-mail."
+#~ msgstr "Twój e-mail. "
+
+#~ msgid "<strong>Photo</strong>"
+#~ msgstr "<strong>Fotografia</strong> "
+
+#~ msgid "<strong>Description</strong>"
+#~ msgstr "Opis "
+
+#~ msgid "Past your google analitic code."
+#~ msgstr "Wklej kod Google Analitics."
+
+#~ msgid "Update Options &raquo;"
+#~ msgstr "Aktualizuj opcje &raquo; "
+
+#~ msgid "Tags"
+#~ msgstr "Tagi "
+
+#~ msgid "Twitter profil"
+#~ msgstr "<strong>Profil na koncie Twitter</strong> "
+
+#~ msgid "Flickr profil"
+#~ msgstr "<strong>Profil na knocie Flickr</strong> "
+
+#~ msgid "Category"
+#~ msgstr "Kategorie "
+
+#~ msgid "%1$s Responses to %2$s"
+#~ msgstr "%1$s Odpowidzi na  %2$s"
+
+#~ msgid "Typo-o-Graphy Options."
+#~ msgstr "Typo-o-Graphy - opcje szablonu. "
