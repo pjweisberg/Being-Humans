@@ -34,14 +34,15 @@
                         </tr>
                     </table>
                 </center>
-                <div class="sidebar">
+                <div class="announce">
                     <p>
-                        In 1998 Stan founded The Empty Stage Theatre
-                        in Los Angeles where he created numerous
-                        improv groups and directed over 1500 shows
-                        <img style="display:block" src="images/stanwells.26.jpg"/>
+                        Stan is teaching a beginning improv class on
+                        Mondays, March 5 through April 23!  Check out
+                        the <a href="improv-classes.php">Improv
+                        Classes</a> page for the details!
                     </p>
                 </div>
+                <?php include 'stan-sidebar.php' ?>
                 <p>
                     Stan Wells began directing and teaching comedy
                     improvisation twenty-five years ago in Los

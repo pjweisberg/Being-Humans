@@ -69,7 +69,7 @@
                 <center>
                     <p>
                         Pay at the door or <a href="http://www.brownpapertickets.com/event/225681">get your tickets online at:<br/>
-                        <img src="images/BPT_small_black.gif"/></a>
+                        <img src="images/BPT_small_black.gif" alt="Brown Paper Tickets"/></a>
                     </p>
                 </center>
                 <div class="facebook">
