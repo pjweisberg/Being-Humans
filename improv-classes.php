@@ -8,14 +8,14 @@
     <body>
         <div class="central-column">
             <?php
-              $currentPage="welcome";
+              $currentPage="director";
               include 'navbar.php';
             ?>
             <?php include 'announce.php' ?>
             <div class="central-column-inner">
                 <h1>Improv For Beginners</h1>
                 <h2>Taught by Being Humans director, <a href="director.php">Stan Wells</a></h2>
-<?php include 'stan-sidebar.php' ?>
+                <?php include 'stan-sidebar.php' ?>
                 <table>
                     <tr>
                         <td>
