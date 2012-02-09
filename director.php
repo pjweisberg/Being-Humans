@@ -38,8 +38,8 @@
                     <p>
                         Stan is teaching a beginning improv class on
                         Mondays, March 5 through April 23!  Check out
-                        <a href="http://emptystageimprov.com/">EmptyStageImprov.com</a>
-                        for the details!
+                        <a href="http://emptystageimprov.com/">Empty
+                        Stage Improv classes</a> for the details!
                     </p>
                 </div>
                 <?php include 'stan-sidebar.php' ?>
