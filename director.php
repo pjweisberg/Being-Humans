@@ -55,12 +55,12 @@
                     Griffin and Julia Sweeney.
                 </p>
                 <p>
-                    He helped to create and subsequently directed, <a
-                    href="http://trans4merz.com/">The Trans4merz
-                    </a>more than twenty years ago, a group that is
-                    still performing in the LA area. Members of The
-                    Trans4merz included, Lisa Kudrow (Friends, The
-                    Comeback), Cynthia Stevenson , Emmy winning SNL
+                    He helped to create and subsequently directed <a
+                    href="http://trans4merz.com/">The Trans4merz</a>,
+                    a group that is still performing in the LA area,
+                    more than twenty years ago. Members of The
+                    Trans4merz included: Lisa Kudrow (Friends, The
+                    Comeback), Cynthia Stevenson, Emmy winning SNL
                     writer, Scott Wainio, Emmy winning writers, Jay
                     Kogen (Frasier, The Simpsons, Tracy Ullman Show)
                     John Stark, (Cheers, Ellen, According to Jim),
@@ -86,8 +86,8 @@
                     href="http://waterbrainsimprov.com/">The
                     Waterbrains</a>. They are continuing to perform
                     live improv in the LA area and around the country
-                    as, Hammer Don’t Hurt ‘Em, a show based on the
-                    clap-in technique taught to them by director, Stan
+                    as Hammer Don’t Hurt ‘Em, a show based on the
+                    clap-in technique taught to them by director Stan
                     Wells.
                   </p>
                   <p>
