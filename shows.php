@@ -46,7 +46,7 @@
                     The Rendezvous Jewelbox Theater<br/>
                     Sunday, Feburary 12<br/>
                     7:00-8:30pm<br/>
-                    $10 at the door or at <a href="http://www.brownpapertickets.com/event/225681">Brown Paper Tickets</a><br/>
+                    $10 at the door<br/>
                     Full service menu<br/>
                 </p>
                 <p>
@@ -66,12 +66,6 @@
                     and your dignity?  Done and done.
                 </p>
 
-                <center>
-                    <p>
-                        Pay at the door or <a href="http://www.brownpapertickets.com/event/225681">get your tickets online at:<br/>
-                        <img src="images/BPT_small_black.gif" alt="Brown Paper Tickets"/></a>
-                    </p>
-                </center>
                 <div class="facebook">
                     <p>
                         Be the first to know about our upcoming shows:
