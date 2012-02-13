@@ -44,7 +44,7 @@
                 </div>
                 <p class="venue">
                     The Rendezvous Jewelbox Theater<br/>
-                    Sunday, Feburary 12<br/>
+                    Sunday, March 11<br/>
                     7:00-8:30pm<br/>
                     $10 at the door<br/>
                     Full service menu<br/>
