@@ -34,9 +34,9 @@
                         </tr>
                     </table>
                 </center>
-                <p>
-                    Coming soon...
-                </p>
+                <?php
+                  include 'cast/include-bios.php';
+                ?>
             </div>
         </div>
     </body>
