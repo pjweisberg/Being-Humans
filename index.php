@@ -41,18 +41,17 @@
                     href="director.php">Stan Wells</a>. The cast
                     rotates from performance to performance.
                 </p>
-                <!-- TODO:  Link each person to their bio -->
-                <p>Current members include
-                Sam Buchanan,
-                Diana Dotter,
-                Christina Filios,
-                Alfonso Lopez,
-                Jordan Naftolin,
-                David X,
-                Karen Ni,
-                Jon Richardson,
-                PJ Weisberg, and
-                Elizabeth Woods
+                <p>
+                    Current members include
+                <a href="cast.php#christinaf">Christina Filios</a>,
+                <a href="cast.php#davidx">David X</a>,
+                <a href="cast.php#elizabethw">Elizabeth Woods</a>,
+                <a href="cast.php#jonr">Jon Richardson</a>,
+                <a href="cast.php#jordann">Jordan Naftolin</a>,
+                <a href="cast.php#karenni">Karen Ni</a>,
+                <a href="cast.php#pj">PJ Weisberg</a>,
+                and
+                <a href="cast.php#samb">Sam Buchanan</a>
                 </p>
 
                 <div class="facebook">
