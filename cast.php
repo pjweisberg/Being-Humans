@@ -34,8 +34,9 @@
                         </tr>
                     </table>
                 </center>
+                <hr/>
                 <?php
-                  include 'cast/include-bios.php';
+                  include 'bios/include-bios.php';
                 ?>
             </div>
         </div>
