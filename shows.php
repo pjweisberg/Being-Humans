@@ -44,7 +44,7 @@
                 </div>
                 <p class="venue">
                     The Rendezvous Jewelbox Theater<br/>
-                    Sunday, April 8th<br/>
+                    Sunday, April 18th<br/>
                     7:00-8:30pm<br/>
                     $10 at the door<br/>
                     Full service menu<br/>
