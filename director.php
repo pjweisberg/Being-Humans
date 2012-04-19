@@ -37,7 +37,7 @@
                 <div class="announce">
                     <p>
                         Stan is teaching a beginning improv class on
-                        Mondays, March 5 through April 23!  Check out
+                        Thursdays, April 26th through June 14th!  Check out
                         <a href="http://emptystageimprov.com/">Empty
                         Stage Improv classes</a> for the details!
                     </p>
