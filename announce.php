@@ -1,5 +1,5 @@
 <div class="announce">
     <p style="line-height: 2em;">
-        <a href="shows.php">Show</a> date changed to April 18, still at 7pm<br/>
+        <a href="shows.php">Shows</a> the second Sunday of every month!
     </p>
 </div>
