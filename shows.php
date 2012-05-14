@@ -44,7 +44,7 @@
                 </div>
                 <p class="venue">
                     The Rendezvous Jewelbox Theater<br/>
-                    Sunday, May 13th<br/>
+                    Sunday, June 10th<br/>
                     7:00-8:30pm<br/>
                     $10 at the door<br/>
                     Full service menu<br/>
